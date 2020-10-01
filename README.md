@@ -16,4 +16,4 @@ DoubleTap: favoritar,
 Longpress: compartilhar nome do filme selecionado,
 Swipe/Slide: remover filme favoritado
 
-![]()
+Para conhecer a aplicação, assista a [demonstração](https://github.com/mportog/movie_flutter/blob/master/demo.mp4?raw=true)
