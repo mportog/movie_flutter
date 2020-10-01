@@ -17,3 +17,13 @@ Longpress: compartilhar nome do filme selecionado,
 Swipe/Slide: remover filme favoritado
 
 Para conhecer a aplicação, assista a [demonstração](https://github.com/mportog/movie_flutter/blob/master/demo.mp4?raw=true)
+
+![](https://github.com/mportog/movie_flutter/blob/master/screenshots/user.png)
+![](https://github.com/mportog/movie_flutter/blob/master/screenshots/added.png)
+![](https://github.com/mportog/movie_flutter/blob/master/screenshots/series.png)
+![](https://github.com/mportog/movie_flutter/blob/master/screenshots/favs.png)
+![](https://github.com/mportog/movie_flutter/blob/master/screenshots/delete.png)
+![](https://github.com/mportog/movie_flutter/blob/master/screenshots/removed.png)
+![](https://github.com/mportog/movie_flutter/blob/master/screenshots/details.png)
+![](https://github.com/mportog/movie_flutter/blob/master/screenshots/details1.png)
+![](https://github.com/mportog/movie_flutter/blob/master/screenshots/share_imdb.png)
