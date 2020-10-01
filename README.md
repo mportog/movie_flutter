@@ -10,7 +10,10 @@ Este app utiliza de um banco relacional SQLite para guardar os favoritos por nom
 Utiliza também da ali Ombd, e realiza pesquisas por nome de filmes/séries e pelo código os do IMDb.
 É possível compartilhar certos dados da pesquisa via Share
 
-Utiliza se gestos:
-Tap, doubletap, longpress
+Utiliza-se gestos para melhor experiencia:
+Tap: pesquisas e seleções,
+DoubleTap: favoritar,
+Longpress: compartilhar nome do filme selecionado,
+Swipe/Slide: remover filme favoritado
 
-
+![]()
